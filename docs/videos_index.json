@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "AUDI_DTM_Ecki__2",
+    "video_id": "oe-_NzFjeOM",
+    "pasta": "engine_sounds",
+    "tipo": "efeito",
+    "descricao": "Som do motor Audi DTM Ecki - variação 2"
+  },
+  {
+    "nome": "raceover_w",
+    "video_id": "hbnug-WJAE8",
+    "pasta": "portuguese",
+    "tipo": "mensagem",
+    "descricao": "Mensagem falada de fim de corrida (versão em português)"
+  }
+]
